@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shivam Shukla  
 
 🎓 **B.Tech in Computer Science** @ Shri Ramswaroop Memorial University, Lucknow  
-📚 **B.Sc. in Data Science** @ IIT Madras, Chennai  
+📚 **B.S. in Data Science** @ IIT Madras, Chennai  
 💻 Aspiring **Data Scientist** | **Full-Stack Developer** | **Cybersecurity Enthusiast**
 
 ---
@@ -49,7 +49,7 @@ Automates calls using Twilio and logs responses with a real-time Flask dashboard
 
 ## 🤝 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/)  
-- ✉️ **shivamshukla@example.com**  
+- ✉️ **lucifer84670@gmail.com**  
 - 🌐 [Portfolio](https://shivamshukla.github.io) *(optional: enable GitHub Pages)*  
 
 ---
