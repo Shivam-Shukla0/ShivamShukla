@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Advanced Data Structures & Algorithms** and **MySQL**.  
 - 🔭 Working on exciting projects like **Job Trends Analyzer** and **Global Call Automation System**.  
 - 🛠 Skilled in **Python**, **C++**, **Flask**, **HTML/CSS/JS**, **Git**, and **cybersecurity tools**.  
-- 📫 Reach me at **shivamshukla@example.com** or [LinkedIn](https://www.linkedin.com/).  
+- 📫 Reach me at **lucifer84670@gmail.com** or [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shivam-shukla-26351b329/)).  
 - ⚡ Fun fact: I love building automation tools and analyzing real-world data.  
 
 ---
@@ -48,7 +48,7 @@ Automates calls using Twilio and logs responses with a real-time Flask dashboard
 ---
 
 ## 🤝 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/shivam-shukla-26351b329/))  
 - ✉️ **lucifer84670@gmail.com**  
 - 🌐 [Portfolio](https://shivamshukla.github.io) *(optional: enable GitHub Pages)*  
 
